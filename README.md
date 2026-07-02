@@ -1,4 +1,4 @@
-# league-of-legends-match-predictor
+# League of Legends Match Predictor
 Predicting League of Legends match outcomes using Logistic Regression, PyTorch, and feature importance analysis.
 ## Objective
 
