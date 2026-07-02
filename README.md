@@ -26,11 +26,12 @@ The project was completed as part of IBM's Introduction to Neural Networks and P
 - Damage Dealt
   ## Results
 
-- Successfully trained a Logistic Regression model to predict League of Legends match outcomes.
-- Preprocessed data using train-test splitting and feature scaling.
-- Evaluated feature importance to identify the most influential gameplay statistics.
-- Gold Earned was identified as the strongest positive predictor of match victory.
-- Kills and Wards Placed were also important factors contributing to winning outcomes.
+- Built and trained a Logistic Regression model to predict League of Legends match outcomes.
+- Applied feature scaling and train-test splitting to prepare the dataset.
+- Analyzed feature importance to understand which gameplay statistics most influence match results.
+- Gold Earned was identified as the strongest predictor of victory.
+- Kills and Wards Placed were also highly influential features.
+- The project demonstrated how machine learning can be used to extract actionable insights from competitive gaming data.
 
  ## Future Improvements
 
